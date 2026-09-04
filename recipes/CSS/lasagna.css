@@ -1,14 +1,25 @@
 body {
-    background-color: darkgray;
+    background-color: rgba(233, 146, 5, 0.279);
 
 }
 
-h1 #{
-    color: darkgoldenrod;
+h1 {
+    color: rgb(245, 178, 8);
     text-shadow: 0in;
-    align-items: center;
 }
 
-*{
-    color:red
+h2 {
+    color: rgb(212, 94, 10)
+}
+
+thead3{
+    color: rgb(233, 94, 7);
+}
+p {
+    color: rgb(193, 125, 24);
+
+}
+
+ul {
+    color: rgb(197, 136, 45);
 }
