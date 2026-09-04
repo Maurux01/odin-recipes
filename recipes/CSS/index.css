@@ -1,15 +1,16 @@
 body {
-    background-color: darkgray;
+    background-color: rgb(202, 74, 74);
 
 }
 
-h1 {
+#main_tittle {
     color: darkgoldenrod;
     text-shadow: 0in;
     align-items: center;
 }
 
 
-ol {
+#ordered_list {
     table-layout: auto;
+    column-rule-color: aqua;
 }
