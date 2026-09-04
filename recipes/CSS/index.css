@@ -1,12 +1,15 @@
-body{background-color: darkgray;
+body {
+    background-color: darkgray;
 
 }
 
-h1{color: darkgoldenrod;
+h1 {
+    color: darkgoldenrod;
     text-shadow: 0in;
     align-items: center;
 }
 
 
-ol{table-layout: auto;
+ol {
+    table-layout: auto;
 }
