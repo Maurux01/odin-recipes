@@ -1,10 +1,10 @@
 body {
-    background-color: rgba(233, 146, 5, 0.279);
+    background-color: rgba(233, 146, 5, 0.211);
 
 }
 
 h1 {
-    color: rgb(245, 178, 8);
+    color: rgb(255, 183, 0);
     text-shadow: 0in;
 }
 
@@ -14,10 +14,14 @@ h2 {
 
 
 p {
-    color: rgb(193, 125, 24);
+    color: rgb(34, 29, 22);
 
 }
 
 ul {
     color: rgb(197, 136, 45);
+}
+
+em     {
+    color: rgb(14, 2, 1)
 }
